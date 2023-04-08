@@ -1,0 +1,19 @@
+{
+  "perfil": [
+    {
+      "nombre": "Daniel Pedraza",
+      "email": "pedraza@alura.com",
+      "id": 1
+    },
+    {
+      "nombre": "Jimmy ",
+      "email": "jimmy@alura.com",
+      "id": "ba27357f-a81a-4a55-a832-9e6d08e6b411"
+    },
+    {
+      "nombre": "Ana",
+      "email": "Ana@alura.com",
+      "id": "9ce426eb-fdce-448d-bd9d-b790ee2976ca"
+    }
+  ]
+}
